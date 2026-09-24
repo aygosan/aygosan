@@ -33,7 +33,7 @@ emocionant, és que alguna cosa no està bé.
 
 ## Stats
 
-![Santiago's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aygosan&show_icons=true&theme=dark&hide_border=true&count_private=false)
+![Santiago's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=aygosan&show_icons=true&theme=dark&hide_border=true&count_private=false)
 
 [![GitHub streak](https://streak-stats.demolab.com?user=aygosan&theme=dark&hide_border=true&locale=ca)](https://git.io/streak-stats)
 
