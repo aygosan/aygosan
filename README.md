@@ -2,7 +2,9 @@
 
 **Platform Engineer** · Kubernetes · OpenShift · Infrastructure as Code
 
-Més de 20 anys construint i operant infraestructura. M'interessa que els sistemes
+Més de 20 anys construint i operant infraestructura.
+
+**Actualment:** Platform Engineer a Volkswagen Digital:Hub · Kubernetes · GitOps · homelab TekGarden M'interessa que els sistemes
 siguin observables, reproduïbles i avorrits d'operar: si un desplegament és
 emocionant, és que alguna cosa no està bé.
 
