@@ -31,12 +31,6 @@ emocionant, és que alguna cosa no està bé.
 - **[Portfoli personal](https://santi.ramisclar.cat)** — web pròpia (Hugo + PaperMod), desplegada per GitHub Actions.
 - **TekGarden** — homelab propi: Kubernetes, FluxCD (GitOps), observabilitat amb Prometheus/Grafana i automatització completa de desplegaments.
 
-## Stats
-
-![Santiago's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=aygosan&show_icons=true&theme=dark&hide_border=true&count_private=false)
-
-[![GitHub streak](https://streak-stats.demolab.com?user=aygosan&theme=dark&hide_border=true&locale=ca)](https://git.io/streak-stats)
-
 ## Contacte
 
 [![Web](https://img.shields.io/badge/Web-santi.ramisclar.cat-4ade80?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://santi.ramisclar.cat)
