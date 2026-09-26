@@ -36,4 +36,4 @@ emocionant, és que alguna cosa no està bé.
 [![Web](https://img.shields.io/badge/Web-santi.ramisclar.cat-4ade80?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://santi.ramisclar.cat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramissan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramissan)
 [![Manfred](https://img.shields.io/badge/Manfred-perfil-6E56CF?style=flat-square&logo=readdotcv&logoColor=white)](https://www.getmanfred.com/perfil/ramissan)
-[![Email](https://img.shields.io/badge/Email-santirc@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santi@ramisclar.cat)
+[![Email](https://img.shields.io/badge/Email-santi@ramisclar.cat-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santi@ramisclar.cat)
